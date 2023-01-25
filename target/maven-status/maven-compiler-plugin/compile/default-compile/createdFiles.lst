@@ -1,0 +1,8 @@
+it\edu\isspitagora\ic\SecondaryController.class
+it\edu\isspitagora\ic\PrimaryController.class
+it\edu\isspitagora\ic\db\CorsoDAO.class
+it\edu\isspitagora\ic\model\Model.class
+it\edu\isspitagora\ic\App.class
+it\edu\isspitagora\ic\Controller.class
+it\edu\isspitagora\ic\db\DBConnect.class
+it\edu\isspitagora\ic\model\Corso.class
